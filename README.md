@@ -1,4 +1,4 @@
-# [GST-Calculator](https://github.com/alepcat1710/GST-Calculator)
+# [miniGermanNummer](https://github.com/alepcat1710/miniGermanNummer)
 
 License
 -------
@@ -24,18 +24,18 @@ SOFTWARE.
 
 Notes
 -----
-	GST Calculator.
 	Proudly coded by Muhammad Aliff Muazzam (Tester2009).
 	<3 Katze xD
 	From German-Malaysian Institute (GMI). Training for Advanced Technology.
-	Date: March 11, 2015
+	Start dev: March 16, 2015. Friday
 
-	http://aliff.muazzam.my/
 	https://www.facebook.com/Tester2009
 	https://github.com/alepcat1710
+	http://aliff.muazzam.my
 	Feel free to use. Do not change copyright, mastah !
 
 	Written in Sublime Text (UNREGISTERED)
-	Run in Microsoft Visual C++ 2010 Express
+	Compiler: gcc
+	Running in: Ubuntu 14.04 64bit
 
 
